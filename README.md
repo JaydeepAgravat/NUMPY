@@ -1,6 +1,6 @@
 # NUMPY
 
-## (NUMPY 1)[https://github.com/JaydeepAgravat/NUMPY/blob/main/NUMPY_1.ipynb]
+## [NUMPY 1](https://github.com/JaydeepAgravat/NUMPY/blob/main/NUMPY_1.ipynb)
 
 ### TOPIC IN NUMPY 1
 
@@ -17,7 +17,7 @@
 - Stacking
 - Splitting
 
-## (NUMPY 2)[https://github.com/JaydeepAgravat/NUMPY/blob/main/NUMPY_2.ipynb]
+## [NUMPY 2](https://github.com/JaydeepAgravat/NUMPY/blob/main/NUMPY_2.ipynb)
 
 ### TOPIC IN NUMPY 2
 
@@ -29,7 +29,7 @@
 - Working with missing values
 - Plotting Graphs
 
-## (NUMPY 3)[https://github.com/JaydeepAgravat/NUMPY/blob/main/NUMPY_3.ipynb]
+## [NUMPY 3](https://github.com/JaydeepAgravat/NUMPY/blob/main/NUMPY_3.ipynb)
 
 ### TOPIC IN NUMPY 3
 
